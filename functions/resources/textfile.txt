@@ -1,11 +1,1 @@
-t-id : 166c8569-76d7-4b16-98c8-91eb12219a01
-p-id : 53d9db35-38f5-52ab-a095-771861ad6c78
 
-https://www.nike.com/us/en/launch-checkout?productId=53d9db35-38f5-52ab-a095-771861ad6c78&size=16.5&channel=snkrs&threadId=166c8569-76d7-4b16-98c8-91eb12219a01
-https://www.nike.com/us/en/launch-checkout?productId=166c8569-76d7-4b16-98c8-91eb12219a01&size=8&channel=snkrs&threadId=53d9db35-38f5-52ab-a095-771861ad6c78
-
-
-#root > div > div > div > div > form > div > div.css-8atqhb.css-p45ed9.e192pr2z0.nds-input-container.error > div.nds-input-layout-control > label
-#root > div > div > div > div > form > div > div.css-1cuic7g > button
-#password
-#root > div > div > div > div.css-1qzlyy1 > form > div > div.css-1028qb5 > button
