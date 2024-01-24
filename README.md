@@ -4,7 +4,7 @@ Welcome to Nike SNKRS Grinch bot
 
 ## Information
 This grinch bot is an automation assists user get multiple entries in for a high participate raffle release from Nike.
-> Notice that for module to work properly, it require a third party cookie provider to entercount Nike anti-bot that I do not provide.
+> Notice that for module to work properly, it require a third party cookie provider to entercount Nike anti-bot which I do not provide.
 > I hope to continue this project in the future when I found a better solution than pay for a third-party service.
 
 ## Purpose
