@@ -37,21 +37,6 @@ async function submitEntry(page, user,password){
     await delay(4000);
 
 
-    // //close ads for that website
-    // await page.click('.needsclick.klaviyo-close-form.kl-private-reset-css-Xuajs1');
-
-    // await page.type("#CustomerEmail", user);
-    // await page.type("#CustomerPassword", password);
-
-
-    // await delay(5000);
-    // await Promise.all([
-    //     page.click("#customer_login button"),
-    //     page.waitForNavigation()
-    // ]);
-
-    // await page.close();
-
 }
 
 module.exports = submitEntry;
